@@ -1,4 +1,13 @@
 *.class
+# IDE related files
+*.iml
+.idea
+*.ipr
+*.iws
+/target
+modules/controller/target
+modules/model/target
+modules/view/target
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
